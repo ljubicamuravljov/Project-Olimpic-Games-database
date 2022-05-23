@@ -1,0 +1,13 @@
+﻿  OlimpicGames.cpp
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\Participation.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(227,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(246,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(266,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(275,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(294,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(306,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\OlimpicGames.cpp(325,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\POOPproject\Participation.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  POOPproject.vcxproj -> C:\Users\Acer\OneDrive - student.etf.bg.ac.rs\FAKULTET\4. semestar\POOP\PROJEKATNOV\POOPproject\x64\Debug\POOPproject.exe
